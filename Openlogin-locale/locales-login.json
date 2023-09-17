@@ -3211,7 +3211,7 @@
       "mandarin": "社会因素验证",
       "portuguese": "Verificação do fator social",
       "spanish": "Verificación del factor social",
-      "norwegian": "Verfisiering med sosial"
+      "norwegian": "Verfisiering med sosial bruker"
     },
     "social-factor-verification-desc": {
       "dutch": "Ga verder met degene die u als sociaal herstelfactor heeft ingesteld",
@@ -3222,7 +3222,8 @@
       "korean": "사회적 회복 요인으로 설정한 것으로 계속",
       "mandarin": "继续您设置为社会恢复因素的因素",
       "portuguese": "Continue com aquele que você definiu como um fator de recuperação social",
-      "spanish": "Continúe con uno que establezca como factor de recuperación social"
+      "spanish": "Continúe con uno que establezca como factor de recuperación social",
+      "norwegian": "Fortsett med en du har satt som sosial gjenopprettelsesfaktor"
     },
     "social-policy": {
       "dutch": "We slaan geen gegevens op die verband houden met uw sociale logins.",
@@ -3233,7 +3234,9 @@
       "korean": "우리는 귀하의 소셜 로그인과 관련된 데이터를 저장하지 않습니다.",
       "mandarin": "我们不存储与您的社交登录相关的任何数据。",
       "portuguese": "Não armazenamos nenhum dado relacionado ao seu login por rede social.",
-      "spanish": "No almacenamos ningún dato relacionado con sus inicios de sesión sociales."
+      "spanish": "No almacenamos ningún dato relacionado con sus inicios de sesión sociales.",
+      "norwegian": "Vi lagrer ingen data om dine sosial bruker-innlogginger"
+
     },
     "start": {
       "dutch": "Aan de slag",
@@ -3244,7 +3247,9 @@
       "korean": "시작하다",
       "mandarin": "开始使用",
       "portuguese": "Começar",
-      "spanish": "Empezar"
+      "spanish": "Empezar",
+      "norwegian": "Kom i gang"
+
     },
     "subtitle": {
       "dutch": "Klik op Aan de slag om door te gaan",
@@ -3255,7 +3260,8 @@
       "korean": "계속하려면 시작하기를 클릭하세요.",
       "mandarin": "点击开始以继续",
       "portuguese": "Clique em Começar para continuar",
-      "spanish": "Haga clic en comenzar para continuar"
+      "spanish": "Haga clic en comenzar para continuar",
+      "norwegian": "Klikk Kom i gang for å fortsette"
     },
     "title": {
       "dutch": "Beheer al uw webinteracties op één plek",
@@ -3266,7 +3272,8 @@
       "korean": "모든 웹 상호 작용을 한 곳에서 관리",
       "mandarin": "一站式管理所有网络互动",
       "portuguese": "Gerencie todas as suas interações na web em um só lugar",
-      "spanish": "Administre todas sus interacciones web en un solo lugar"
+      "spanish": "Administre todas sus interacciones web en un solo lugar",
+      "norwegian": "Administrer alle dine online interaksjoner på samme sted"
     },
     "tooltip-phone-details": {
       "dutch": "Uw landcode wordt automatisch gedetecteerd, maar als u een telefoonnummer uit een ander land gebruikt, moet u de juiste landcode handmatig invoeren.",
@@ -3277,7 +3284,8 @@
       "korean": "국가 코드는 자동으로 감지되지만 다른 국가의 전화 번호를 사용하는 경우 수동으로 올바른 국가 코드를 입력해야합니다.",
       "mandarin": "您的国家代码将自动检测到，但是如果您使用来自其他国家 /地区的电话号码，则需要手动输入正确的国家代码。",
       "portuguese": "O código do seu país será detectado automaticamente, mas se você estiver usando um número de telefone de um país diferente, precisará inserir o código correto do país manualmente.",
-      "spanish": "Su código de país se detectará automáticamente, pero si está utilizando un número de teléfono de un país diferente, deberá ingresar el código de país correcto manualmente."
+      "spanish": "Su código de país se detectará automáticamente, pero si está utilizando un número de teléfono de un país diferente, deberá ingresar el código de país correcto manualmente.",
+        "norwegian": "Din landskode vil oppdages automatisk, men dersom du bruker et telefonnummer fra et annet land, må du selv skrive inn korrekt landskode manuelt."
     },
     "tooltip-phone-header": {
       "dutch": "Telefoonnummer en landcode",
@@ -3288,7 +3296,8 @@
       "korean": "전화 번호 및 국가 코드",
       "mandarin": "电话号码和国家代码",
       "portuguese": "Número de telefone e código de país",
-      "spanish": "Número de teléfono y código de país"
+      "spanish": "Número de teléfono y código de país",
+      "norwegian": "Telefonnummer og landskode"
     },
     "verifier-email-desc": {
       "dutch": "Doorgaan met e-mail",
@@ -3299,7 +3308,8 @@
       "korean": "이메일로 계속",
       "mandarin": "继续发送电子邮件",
       "portuguese": "Continuar com e-mail",
-      "spanish": "Continuar con el correo electrónico"
+      "spanish": "Continuar con el correo electrónico",
+      "norwegian": "Fortsett med e-post"
     },
     "verifier-email-placeholder": {
       "dutch": "E-mailadres",
@@ -3310,7 +3320,8 @@
       "korean": "이메일",
       "mandarin": "电子邮件",
       "portuguese": "E-mail",
-      "spanish": "Correo electrónico"
+      "spanish": "Correo electrónico",
+      "norwegian": "E-postadresse"
     },
     "verifier-google-desc": {
       "dutch": "Doorgaan met Google",
@@ -3321,7 +3332,8 @@
       "korean": "Google로 계속",
       "mandarin": "继续使用Google",
       "portuguese": "Continuar com o Google",
-      "spanish": "Continuar con Google"
+      "spanish": "Continuar con Google",
+      "norwegian": "Fortsett med Google"
     },
     "verifier-sms-desc": {
       "dutch": "Doorgaan met telefoon",
@@ -3332,7 +3344,8 @@
       "korean": "전화로 계속하십시오",
       "mandarin": "继续电话",
       "portuguese": "Continue com o telefone",
-      "spanish": "Continuar con el teléfono"
+      "spanish": "Continuar con el teléfono",
+      "norwegian": "Fortsett med telefonnummer"
     },
     "verifier-sms-desc-2": {
       "dutch": "Doorgaan met mobiel",
@@ -3343,7 +3356,8 @@
       "korean": "모바일을 계속하십시오",
       "mandarin": "继续移动",
       "portuguese": "Continue com o celular",
-      "spanish": "Continuar con Mobile"
+      "spanish": "Continuar con Mobile",
+      "norwegian": "Forsett med mobil"
     },
     "verifier-sms-placeholder": {
       "dutch": "Bijvoorbeeld:",
@@ -3354,7 +3368,8 @@
       "korean": "예 :",
       "mandarin": "例如：",
       "portuguese": "Por exemplo:",
-      "spanish": "P.ej:"
+      "spanish": "P.ej:",
+      "norwegian": "For eksempel"
     },
     "verifier-webauth-desc": {
       "dutch": "Doorgaan met WebAuthn",
@@ -3365,7 +3380,8 @@
       "korean": "WebAuthn으로 계속",
       "mandarin": "继续使用WebAuthn",
       "portuguese": "Continuar com WebAuthn",
-      "spanish": "Continuar con WebAuthn"
+      "spanish": "Continuar con WebAuthn",
+      "norwegian": "Fortsett med WebAuthn"
     },
     "verify-otp-description": {
       "dutch": "Voer de OTP-code in die naar {number} is verzonden",
@@ -3376,7 +3392,8 @@
       "korean": "전송 된 OTP 코드를 입력하십시오 {number}",
       "mandarin": "输入发送到发送到的OTP代码 {number}",
       "portuguese": "Digite o código OTP enviado para {number}",
-      "spanish": "Ingrese el código OTP enviado a {number}"
+      "spanish": "Ingrese el código OTP enviado a {number}",
+      "norwegian": "Skriv OTP-koden sendt til {number}"
     },
     "verify-otp-heading-1": {
       "dutch": "Er is een OTP verzonden naar {number}",
@@ -3387,7 +3404,8 @@
       "korean": "OTP가 전송되었습니다 {number}",
       "mandarin": "OTP已发送到 {number}",
       "portuguese": "Um OTP foi enviado para {number}",
-      "spanish": "Se ha enviado un OTP a {number}"
+      "spanish": "Se ha enviado un OTP a {number}",
+      "norwegian": "En OTP-kode er sendt til {number}""
     },
     "verify-otp-heading-2": {
       "dutch": "Voer OTP in om door te gaan",
@@ -3398,7 +3416,8 @@
       "korean": "계속하려면 OTP를 입력하십시오",
       "mandarin": "输入OTP继续",
       "portuguese": "Digite o OTP para continuar",
-      "spanish": "Ingrese OTP para continuar"
+      "spanish": "Ingrese OTP para continuar",
+      "norwegian": "Skriv inn OTP for å fortsette"
     },
     "verify-otp-title-popup": {
       "dutch": "OTP-verificatie",
@@ -3409,7 +3428,8 @@
       "korean": "OTP 검증",
       "mandarin": "OTP验证",
       "portuguese": "Verificação de OTP",
-      "spanish": "Verificación OTP"
+      "spanish": "Verificación OTP",
+      "norwegian": "Verifisering med OTP"
     },
     "verify-otp-title-redirect": {
       "dutch": "Voer uw OTP in",
@@ -3420,7 +3440,8 @@
       "korean": "OTP를 입력하십시오",
       "mandarin": "输入您的OTP",
       "portuguese": "Digite seu OTP",
-      "spanish": "Ingrese su OTP"
+      "spanish": "Ingrese su OTP",
+      "norwegian": "Skriv inn OTP"
     },
     "verify-with-password-factor-desc": {
       "dutch": "Controleer met nog een factor om door te gaan",
@@ -3431,7 +3452,8 @@
       "korean": "계속할 요소가 하나 더 확인하십시오",
       "mandarin": "验证另一个因素继续",
       "portuguese": "Verifique com mais um fator para continuar",
-      "spanish": "Verifique con un factor más para continuar"
+      "spanish": "Verifique con un factor más para continuar",
+      "norwegian": "Verifiser med en til faktor for å fortsette"
     },
     "verify-with-recovery-factor-desc": {
       "dutch": "Verifieer met uw herstelfactor die naar u is verzonden om door te gaan",
@@ -3442,7 +3464,8 @@
       "korean": "회복 요소가 계속되도록 확인하십시오",
       "mandarin": "验证您发送的恢复因素继续",
       "portuguese": "Verifique com seu fator de recuperação enviado para continuar",
-      "spanish": "Verifique con su factor de recuperación enviado para continuar"
+      "spanish": "Verifique con su factor de recuperación enviado para continuar",
+      "norwegian": "Verifiser med din tilsendte gjenopprettelseskode for å fortsette"
     }
   }
 }
